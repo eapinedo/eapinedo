@@ -15,11 +15,36 @@ Absolutely. You are expected to possess the technical coding skills of a softwar
 
 ---
 
+### 📂 Featured Projects
+
+Here are a few of my favorite projects. I'm always analyzing new datasets, so this list is always growing!
+
+<!-- 
+=======================================================================
+🚀 FUTURE PROJECTS TEMPLATE
+To add a new project in the future, just copy the 3 lines below 
+and paste them into the list:
+
+- [**Project Name**](https://github.com/eapinedo/your-repo-link) 
+  - *Description of what the project does and the insights found.*
+  - **Tools:** Tool 1, Tool 2, Tool 3
+=======================================================================
+-->
+
+- [**Amazon Sales Analysis**](https://github.com/eapinedo/Amazon-Sales) 
+  - *An analytical deep-dive into Amazon sales data to uncover purchasing trends, track revenue metrics, and extract actionable business insights.*
+  - **Tools:** Python, SQL, Power BI
+
+- [**Sales & Inventory Automation**](https://github.com/eapinedo/Sales-Inv-Automation) 
+  - *An automated workflow solution designed to track sales and manage inventory, eliminating manual data entry and improving reporting accuracy.*
+  - **Tools:** Python, Pandas, Excel
+
+---
+
 ### 🛠️ Tools of the Trade
-*Feel free to adjust these based on your actual stack!*
 - **Languages:** SQL, Python, R
 - **Data Viz:** Tableau, Power BI, Matplotlib, Excel
-- **Databases:** PostgreSQL, MySQL, BigQuery
+- **Databases:** PostgreSQL, MySQL
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/emilio-pinedo](https://linkedin.com/in/emilio-pinedo)
