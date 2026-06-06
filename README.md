@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Emilio Pinedo 👋
 
-<!--
-**eapinedo/eapinedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Data Analyst passionate about untangling messy data, finding the hidden story behind the numbers, and transforming raw information into actionable business insights. I love building dashboards, writing efficient queries, and diving deep into analytics.
 
-Here are some ideas to get you started:
+### 📊 Wait, what exactly *is* a Data Analyst?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you ask Hollywood, we are hackers typing furiously in green text to predict the future. In reality, a Data Analyst is essentially a highly-trained, professional data janitor. A typical day breaks down like this:
+
+- **80%** aggressively staring at a CSV file, trying to figure out why someone entered their date of birth as "Banana."
+- **15%** gently explaining to stakeholders for the hundredth time that *correlation does not imply causation*.
+- **5%** creating beautiful, fully interactive dashboards that management will inevitably just screenshot and paste into a PowerPoint anyway.
+
+**Is it a hard job?** 
+Absolutely. You are expected to possess the technical coding skills of a software engineer, the strategic foresight of a CEO, and the patience of a saint when someone asks if you can "just use AI" to fix a spreadsheet that has 40,000 blank rows. But honestly, nothing beats the adrenaline rush of a perfectly executed SQL `JOIN` or finally getting a script to run without errors.
+
+---
+
+### 🛠️ Tools of the Trade
+*Feel free to adjust these based on your actual stack!*
+- **Languages:** SQL, Python, R
+- **Data Viz:** Tableau, Power BI, Matplotlib, Excel
+- **Databases:** PostgreSQL, MySQL, BigQuery
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/emilio-pinedo](https://linkedin.com/in/emilio-pinedo)
+- **Portfolio:** [github.com/eapinedo/eapinedo.github.io](https://github.com/eapinedo/eapinedo.github.io)
+- **Email:** [epinedos1999@gmail.com](mailto:epinedos1999@gmail.com)
+
+---
+⭐️ *From a proud data wrangler.*
