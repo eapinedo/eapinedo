@@ -48,7 +48,7 @@ and paste them into the list:
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/emilio-pinedo](https://linkedin.com/in/emilio-pinedo)
-- **Portfolio:** [github.com/eapinedo/eapinedo.github.io](https://github.com/eapinedo/eapinedo.github.io)
+- **Portfolio:** [emilio.github.io/emilio-portfolio](https://emilio.github.io/emilio-portfolio)
 - **Email:** [epinedos1999@gmail.com](mailto:epinedos1999@gmail.com)
 
 ---
