@@ -42,7 +42,7 @@ and paste them into the list:
 ---
 
 ### 🛠️ Tools of the Trade
-- **Languages:** SQL, Python, R
+- **Languages:** SQL, Python
 - **Data Viz:** Tableau, Power BI, Matplotlib, Excel
 - **Databases:** PostgreSQL, MySQL
 
