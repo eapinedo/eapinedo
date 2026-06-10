@@ -35,7 +35,7 @@ and paste them into the list:
   - *An analytical deep-dive into Amazon sales data to uncover purchasing trends, track revenue metrics, and extract actionable business insights.*
   - **Tools:** Python, SQL, Power BI
 
-- [**Sales & Inventory Automation**](https://github.com/eapinedo/Sales-Inv-Automation)
+- [**Sales & Inventory Automation**](https://eapinedo.github.io/Sales-Inv-Automation/)
   - *An automated workflow solution designed to track sales and manage inventory, eliminating manual data entry and improving reporting accuracy.*
   - **Tools:** Python, Pandas, Excel
 
