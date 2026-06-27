@@ -44,7 +44,7 @@ and paste them into the list:
 ### 🛠️ Tools of the Trade
 - **Languages:** SQL, Python
 - **Data Viz:** Tableau, Power BI, Matplotlib, Excel
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** SQL Server, PostgreSQL, MySQL
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/emilio-pinedo](https://linkedin.com/in/emilio-pinedo)
