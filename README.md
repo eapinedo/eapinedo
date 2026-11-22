@@ -10,9 +10,6 @@ If you ask Hollywood, we are hackers typing furiously in green text to predict t
 - **15%** gently explaining to stakeholders for the hundredth time that *correlation does not imply causation*.
 - **5%** creating beautiful, fully interactive dashboards that management will inevitably just screenshot and paste into a PowerPoint anyway.
 
-**Is it a hard job?** 
-Absolutely. You are expected to possess the technical coding skills of a software engineer, the strategic foresight of a CEO, and the patience of a saint when someone asks if you can "just use AI" to fix a spreadsheet that has 40,000 blank rows. But honestly, nothing beats the adrenaline rush of a perfectly executed SQL `JOIN` or finally getting a script to run without errors.
-
 ---
 
 ### 📂 Featured Projects
@@ -31,20 +28,26 @@ and paste them into the list:
 =======================================================================
 -->
 
-- [**Amazon Sales Analysis**](https://eapinedo.github.io/Amazon-Sales/)
+- [**Financial Lakehouse & Audit Anomaly Pipeline**](https://github.com/eapinedo/databricks-financial-lakehouse)
+  - *End-to-end Bronze–Silver–Gold Delta Lake pipeline in Databricks processing 5,100+ multi-currency General Ledger records, with PySpark deduplication, automated defect quarantining, Z-score billing anomaly detection, and Gold P&L / budget-variance tables powering an AI/BI Dashboard.*
+  - **Tools:** Databricks · PySpark · Spark SQL · Delta Lake · Unity Catalog · AI/BI Dashboards
+  
+- [**Amazon Pricing & Customer Sentiment Analytics**](https://github.com/eapinedo/Amazon-Sales/)
   - *An analytical deep-dive into Amazon sales data to uncover purchasing trends, track revenue metrics, and extract actionable business insights.*
-  - **Tools:** Python, SQL, Power BI
+  - **Tools:** Python · SQL · Server · Power BI
 
-- [**Sales & Inventory Automation**](https://eapinedo.github.io/Sales-Inv-Automation/)
+- [**Automated Retail Sales ETL & Alerting Pipeline**](https://github.com/eapinedo/Sales-Inv-Automation/)
   - *An automated workflow solution designed to track sales and manage inventory, eliminating manual data entry and improving reporting accuracy.*
-  - **Tools:** Python, Pandas, Excel
+  - **Tools:** Python · Pandas · SQL Server · Excel
 
 ---
 
 ### 🛠️ Tools of the Trade
-- **Languages:** SQL, Python
-- **Data Viz:** Tableau, Power BI, Matplotlib, Excel
+- **Languages & Processing:** Python (PySpark, Pandas, NumPy), SQL (Spark SQL, T-SQL)
+- **Cloud & Data Engineering:** Microsoft Azure (Databricks, Delta Lake, Unity Catalog, Synapse Analytics, Data Factory, Data Lake), ETL Pipeline Development
+- **BI & Visualization:** Power BI (DAX), Tableau, Databricks AI/BI Dashboards, Advanced Excel (VBA / Office Scripts), Matplotlib
 - **Databases:** SQL Server, PostgreSQL, MySQL
+- **Certifications:** Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/emilio-pinedo](https://linkedin.com/in/emilio-pinedo)
