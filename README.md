@@ -47,7 +47,6 @@ and paste them into the list:
 - **Cloud & Data Engineering:** Microsoft Azure (Databricks, Delta Lake, Unity Catalog, Synapse Analytics, Data Factory, Data Lake), ETL Pipeline Development
 - **BI & Visualization:** Power BI (DAX), Tableau, Databricks AI/BI Dashboards, Advanced Excel (VBA / Office Scripts), Matplotlib
 - **Databases:** SQL Server, PostgreSQL, MySQL
-- **Certifications:** Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/emilio-pinedo](https://linkedin.com/in/emilio-pinedo)
